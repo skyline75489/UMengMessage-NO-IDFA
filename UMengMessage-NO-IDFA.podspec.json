@@ -22,6 +22,6 @@
   "preserve_paths": "**/UMessage_Sdk_1.2.1/libUMessage_Sdk_1.2.1.a",
   "libraries": "UMessage_Sdk_1.2.1",
   "xcconfig": {
-    "LIBRARY_SEARCH_PATHS": "\"$(PODS_ROOT)/UMengMessage/UMessage_Sdk_All_1.2.1/UMessage_Sdk_1.2.1/**\""
+    "LIBRARY_SEARCH_PATHS": "\"$(PODS_ROOT)/UMengMessage-NO-IDFA/UMessage_Sdk_All_1.2.1/UMessage_Sdk_1.2.1/**\""
   }
 }
