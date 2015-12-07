@@ -1,6 +1,6 @@
 {
   "name": "UMengMessage-NO-IDFA",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "UMeng's official Message(Push) SDK for iOS.",
   "description": "UMeng Message SDK provide remote notifications by APNS. ",
   "homepage": "http://dev.umeng.com/message/ios/integration-guide",
@@ -18,10 +18,10 @@
     "ios": "4.3"
   },
   "requires_arc": true,
-  "source_files": "**/UMessage_Sdk_1.2.0/UMessage.h",
-  "preserve_paths": "**/UMessage_Sdk_1.2.0/libUMessage_Sdk_1.2.0.a",
-  "libraries": "UMessage_Sdk_1.2.0",
+  "source_files": "**/UMessage_Sdk_1.2.1/UMessage.h",
+  "preserve_paths": "**/UMessage_Sdk_1.2.1/libUMessage_Sdk_1.2.1.a",
+  "libraries": "UMessage_Sdk_1.2.1",
   "xcconfig": {
-    "LIBRARY_SEARCH_PATHS": "\"$(PODS_ROOT)/UMengMessage/UMessage_Sdk_All_1.2.0/UMessage_Sdk_1.2.0/**\""
+    "LIBRARY_SEARCH_PATHS": "\"$(PODS_ROOT)/UMengMessage/UMessage_Sdk_All_1.2.1/UMessage_Sdk_1.2.1/**\""
   }
 }
