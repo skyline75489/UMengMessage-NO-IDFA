@@ -1,5 +1,5 @@
 {
-  "name": "UMengMessage",
+  "name": "UMengMessage-NO-IDFA",
   "version": "1.2.0",
   "summary": "UMeng's official Message(Push) SDK for iOS.",
   "description": "UMeng Message SDK provide remote notifications by APNS. ",
