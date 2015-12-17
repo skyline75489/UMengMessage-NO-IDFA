@@ -5,5 +5,6 @@
 
 使用方法：
 
-    pod 'UMengMessage-NO-IDFA', :podspec => 'https://raw.githubusercontent.com/skyline75489/UMengMessage-NO-IDFA/master/UMengMessage-NO-IDFA.podspec.json'
-
+```ruby
+pod 'UMengMessage-NO-IDFA', :podspec => 'https://raw.githubusercontent.com/skyline75489/UMengMessage-NO-IDFA/master/UMengMessage-NO-IDFA.podspec.json'
+```
